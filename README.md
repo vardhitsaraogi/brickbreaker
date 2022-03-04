@@ -1,2 +1,2 @@
 # brickbreaker
-Old school game, but without the bricks 
+Old school game. Break as many bricks without dropping the ball!
